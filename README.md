@@ -1,0 +1,2 @@
+# premium-phosphor-001-phosphor-coating-tube-color-co
+You've spent hours cross-referencing outdated phosphor datasheets, only to end up with a tube that glows the wrong shade of green. Stop the guesswork — the Phosphor Coating Tube Color Conversion Guide turns scattered, conflicting color codes into a searchable, ultra-clear Notion database.  This Notion template replaces hours of manual research with
